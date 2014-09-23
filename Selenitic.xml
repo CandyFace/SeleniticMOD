@@ -1,0 +1,102 @@
+ 
+<EditorStyle name="SeleniticMod" _description="A dark theme with delightful contrast">
+     
+    <!-- color palette -->
+    <Color name="sand-green" value="#dfdfbf"/>
+    <Color name="greenblue" value="#799874"/>
+    <Color name="greenblue2" value="#8acccf"/>
+    <Color name="dgreenblue" value="#009695"/>
+    <Color name="comgray" value="#808080"/>
+    <Color name="lightbrown" value="#eec986"/>
+    <Color name="skinColor" value="#eddcdc"/>
+    <Color name="lightyellow" value="#ffff00"/>
+    <Color name="breakred" value="#963844"/>
+    <Color name="lightgray2" value="#737373"/>
+    <Color name="lightgray" value="#f5f5f5"/>
+    <Color name="gray4" value="#505050"/>
+    <Color name="gray3" value="#828282"/>
+    <Color name="gray2" value="#b2b2b2"/>
+    <Color name="redbrown2" value="#605353"/>
+    <Color name="gray" value="#b8b5b5"/>
+    <Color name="redbrown" value="#a08570"/>
+    <Color name="darkligray" value="#444444"/>
+    <Color name="darkgray" value="#333333"/>
+    <Color name="icongray" value="#eeeeec"/>
+    <Color name="icongray2" value="#babdB6"/>
+    <Color name="stringred" value="#deaf8f"/>
+    <Color name="stringred2" value="#a53e00"/>
+    <Color name="purple" value="#8c8cb3"/>
+    <Color name="bcolor" value="#D4BEBE"/>
+    <Color name="bubcolor" value="#805548"/>
+    <Color name="bluec" value="#6E95BE"/>
+
+  <!-- Environment -->
+  <Style name="text" color="sand-green" bgColor="darkgray"/>
+  <Style name="text.background.searchresult" color="darkgray"/>
+  <Style name="text.selection" color="gray" bgColor="redbrown2"/>
+  <Style name="text.preprocessor.keyword" color="lightbrown"/>
+ 
+  <Style name="tooltip" color="darkligray" bgColor="redbrown"/>
+  <Style name="tooltip.border" color="gray2"/>
+  <Style name="tooltip.pager.text" color="gray3"/>
+  <Style name="tooltip.pager.top" color="white"/>
+  <Style name="tooltip.pager.bottom" color="lightgray"/>
+  <Style name="tooltip.pager.triangle" color="lightgray2"/>
+  
+  <Style name="marker.line" color="redbrown2"/>
+  <Style name="marker.ruler" color="darkgray"/>
+  <Style name="marker.bracket" color="darkgray" bgColor="gray4"/>
+  <Style name="marker.breakpoint" color="white" bgColor="breakred"/>
+  <Style name="marker.breakpoint.color1" color="white"/>
+  <Style name="marker.breakpoint.color2" color="breakred"/>
+  <Style name="marker.breakpoint.invalid" color="skinColor"/>
+  <Style name="marker.marker.color" color="bcolor"/>
+
+
+  <Style name="marker.debug" color="black" bgColor="lightyellow"/>
+  
+  <Style name="linenumber" color="greenblue" bgColor="darkgray"/>
+
+  <Style name="iconbar" color="icongray"/>
+  <Style name="iconbar.separator" color="icongray2"/>
+
+  <Style name="fold" color="gray2" bgColor="white"/>
+  <Style name="fold.margin" color="black" bgColor="redbrown2"/>
+
+  <Style name="comment" color="comgray" weight="italic"/>
+  <Style name="comment.keyword" color="darkligray" weight="bold"/>
+  <Style name="comment.line" color="comgray" weight="italic"/>
+  <Style name="comment.block" color="comgray" weight="italic"/>
+  <Style name="comment.doc" color="comgray"/>
+  <Style name="comment.tag" color="comgray" weight="italic"/>
+  <Style name="comment.tag.line" color="comgray" weight="italic"/>
+  <Style name="comment.tag.block" color="comgray" weight="italic"/>
+  <Style name="comment.tag.doc" color="comgray" weight="italic"/>
+  <Style name="comment.keyword.todo" color="sand-green" weight="bold"/>
+
+  <Style name="constant.digit" color="bluec" />
+  
+  <Style name="string" color="stringred"/>
+  <Style name="string.escape" color="stringred2"/>
+  <Style name="string.single" color="stringred"/>
+  <Style name="string.double" color="stringred"/>
+  <Style name="string.other" color="stringred"/>
+  
+  <Style name="bubble.error" color="skinColor" bgColor="bubcolor" />
+
+  <Style name="keyword.semantic.field" color="sand-green"/>
+  <Style name="keyword.semantic.field.declaration" color="sand-green"/>
+  <Style name="keyword.semantic.property" color="sand-green"/>
+  <Style name="keyword.semantic.property.declaration" color="sand-green"/>
+  <Style name="keyword.semantic.event" color="sand-green"/>
+  <Style name="keyword.semantic.event.declaration" color="sand-green"/>
+  <Style name="keyword.semantic.method" color="sand-green"/>
+  <Style name="keyword.semantic.method.declaration" color="sand-green"/>
+  <Style name="keyword.semantic.error" color="purple"/>
+  <Style name="keyword.semantic.type.declaration" color="greenblue2"/>
+  <Style name="keyword.semantic.extensionthis" color="dgreenblue"/>
+  <Style name="keyword.semantic.type" color="lightbrown"/>
+  
+  <Style name="keyword" color="lightbrown"/>
+   
+</EditorStyle>
