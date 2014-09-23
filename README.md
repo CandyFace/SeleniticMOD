@@ -3,7 +3,7 @@ SeleniticMOD
 
 A Delightful though dark theme for unity monodevelop C#
 
-This is my WIP syntax highlight scheme for Unity Monodevelop, only tested on 4.0.3.
+This is my WIP syntax highlight scheme for Unity Monodevelop, only tested on 4.0.1.
 Was it a nightmare to make? YES, was it worth it? definitely!
 
 I really wish Unity Monodevelop would keep up with Xamarin which uses Json instead of XML schemes.
