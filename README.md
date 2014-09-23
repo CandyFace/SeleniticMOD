@@ -15,4 +15,4 @@ I just couldn't stand looking at Monokai anymore.. it has been a favorite of min
 but it is hideous in Monodevelop.. that orange color TT_TT.
 
 Here is a taste of what it looks like:
-![alt tag](http://cloudho.st/i/ZwymLcfE.png)
+![alt tag](http://cloudho.st/i/xFu4McfE.png)
