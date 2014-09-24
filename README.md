@@ -14,5 +14,6 @@ Reason for this scheme?
 I just couldn't stand looking at Monokai anymore.. it has been a favorite of mine for years and i still use it for Sublime text 3
 but it is hideous in Monodevelop.. that orange color TT_TT.
 
-Here is a taste of what it looks like:
+Here is a taste of what it looks like: 
+In semantic highlight, which i recommend to use!
 ![alt tag](http://cloudho.st/i/xFu4McfE.png)
