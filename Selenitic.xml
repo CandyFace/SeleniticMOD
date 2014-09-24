@@ -26,9 +26,9 @@
     <Color name="stringred" value="#deaf8f"/>
     <Color name="stringred2" value="#a53e00"/>
     <Color name="purple" value="#8c8cb3"/>
-    <Color name="bcolor" value="#D4BEBE"/>
+    <Color name="bcolor" value="#d4bebe"/>
     <Color name="bubcolor" value="#805548"/>
-    <Color name="bluec" value="#6E95BE"/>
+    <Color name="bluec" value="#6e95be"/>
 
   <!-- Environment -->
   <Style name="text" color="sand-green" bgColor="darkgray"/>
@@ -36,7 +36,7 @@
   <Style name="text.selection" color="gray" bgColor="redbrown2"/>
   <Style name="text.preprocessor.keyword" color="lightbrown"/>
  
-  <Style name="tooltip" color="darkligray" bgColor="redbrown"/>
+  <Style name="tooltip" color="sand-green" bgColor="redbrown2"/>
   <Style name="tooltip.border" color="gray2"/>
   <Style name="tooltip.pager.text" color="gray3"/>
   <Style name="tooltip.pager.top" color="white"/>
