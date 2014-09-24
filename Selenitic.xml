@@ -44,6 +44,7 @@
   <Style name="tooltip.pager.triangle" color="lightgray2"/>
   
   <Style name="marker.line" color="redbrown2"/>
+  <Style name="marker.usages" color="gray" bgColor="redbrown2" />
   <Style name="marker.ruler" color="darkgray"/>
   <Style name="marker.bracket" color="darkgray" bgColor="gray4"/>
   <Style name="marker.breakpoint" color="white" bgColor="breakred"/>
@@ -51,6 +52,8 @@
   <Style name="marker.breakpoint.color2" color="breakred"/>
   <Style name="marker.breakpoint.invalid" color="skinColor"/>
   <Style name="marker.marker.color" color="bcolor"/>
+
+  <Style name="template" color="gray" bgColor="redbrown2" />
 
 
   <Style name="marker.debug" color="black" bgColor="lightyellow"/>
@@ -75,6 +78,7 @@
   <Style name="comment.keyword.todo" color="sand-green" weight="bold"/>
 
   <Style name="constant.digit" color="bluec" />
+  <Style name="constant.language.void" color="lightbrown" />
   
   <Style name="string" color="stringred"/>
   <Style name="string.escape" color="stringred2"/>
