@@ -28,6 +28,7 @@
     <Color name="purple" value="#8c8cb3"/>
     <Color name="bcolor" value="#d4bebe"/>
     <Color name="bubcolor" value="#805548"/>
+    <Color name="bubcolor2" value="#7C665F"/>
     <Color name="bluec" value="#6e95be"/>
 
   <!-- Environment -->
@@ -48,7 +49,7 @@
   <Style name="marker.ruler" color="darkgray"/>
   <Style name="marker.bracket" color="gray2" bgColor="gray4"/>
   <Style name="marker.breakpoint" color="white" bgColor="breakred"/>
-  <Style name="marker.breakpoint.color1" color="white"/>
+  <Style name="marker.breakpoint.color1" color="breakred"/>
   <Style name="marker.breakpoint.color2" color="breakred"/>
   <Style name="marker.breakpoint.invalid" color="skinColor"/>
   <Style name="marker.marker.color" color="bcolor"/>
@@ -87,6 +88,7 @@
   <Style name="string.other" color="stringred"/>
   
   <Style name="bubble.error" color="skinColor" bgColor="bubcolor" />
+  <Style name="bubble.warning" color="skinColor" bgColor="bubcolor2" />
 
   <Style name="keyword.semantic.field" color="sand-green"/>
   <Style name="keyword.semantic.field.declaration" color="sand-green"/>
