@@ -46,7 +46,7 @@
   <Style name="marker.line" color="redbrown2"/>
   <Style name="marker.usages" color="gray" bgColor="redbrown2" />
   <Style name="marker.ruler" color="darkgray"/>
-  <Style name="marker.bracket" color="darkgray" bgColor="gray4"/>
+  <Style name="marker.bracket" color="gray2" bgColor="gray4"/>
   <Style name="marker.breakpoint" color="white" bgColor="breakred"/>
   <Style name="marker.breakpoint.color1" color="white"/>
   <Style name="marker.breakpoint.color2" color="breakred"/>
